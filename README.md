@@ -1,2 +1,2 @@
 # zipline_coding
-Zipline Coding Exercise 
+Trading Exercie - Zipline Coding 
